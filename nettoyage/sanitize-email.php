@@ -4,7 +4,7 @@
 FILTER_SANITIZE_EMAIL "email"
 Supprime tous les caractères sauf les lettres, chiffres, et !#$%&'*+-=?^_`{|}~@.[].
 
-https://www.php.net/manual/fr/filter.filters.validate.php
+https://www.php.net/manual/fr/filter.filters.sanitize.php
 */
 
 $valeurs = ["pewpew@pewpew.com", "\Dfdsfs"];

@@ -4,7 +4,7 @@
 FILTER_SANITIZE_STRING "string"
 Supprime les balises, et supprime ou encode les caractères spéciaux.
 
-https://www.php.net/manual/fr/filter.filters.validate.php
+https://www.php.net/manual/fr/filter.filters.sanitize.php
 */
 
 $valeurs = ["<p>PewPew</p>", "<script>console.log(\"hacké\");</script>", "alexis"];

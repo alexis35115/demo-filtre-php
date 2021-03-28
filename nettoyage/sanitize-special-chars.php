@@ -4,7 +4,7 @@
 FILTER_SANITIZE_SPECIAL_CHARS "special_chars"
 Transforme en entité HTML les caractères '"<>& et les caractères ASCII de valeur inférieur à 32, et supprime ou encode les autres caractères spéciaux.
 
-https://www.php.net/manual/fr/filter.filters.validate.php
+https://www.php.net/manual/fr/filter.filters.sanitize.php
 */
 
 $valeurs = ["<p>PewPew</p>", "<script>console.log(\"hacké\");</script>"];

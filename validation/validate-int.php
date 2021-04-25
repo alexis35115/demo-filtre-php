@@ -1,8 +1,7 @@
 <?php 
 
 /*
-FILTER_VALIDATE_INT "int" - default, min_range, max_range
-Valide un entier, éventuellement dans un intervalle donné et le converti en entier en cas de succès.
+FILTER_VALIDATE_INT "int" - default, min_range, max_range valide un entier, éventuellement dans un intervalle donné et le converti en entier en cas de succès.
 
 https://www.php.net/manual/fr/filter.filters.validate.php
 */

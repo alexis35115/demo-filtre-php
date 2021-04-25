@@ -2,7 +2,7 @@
 
 /*
 FILTER_SANITIZE_SPECIAL_CHARS "special_chars"
-Transforme en entité HTML les caractères '"<>& et les caractères ASCII de valeur inférieur à 32, et supprime ou encode les autres caractères spéciaux.
+Transforme en entité HTML les caractères '"<>& et les caractères ASCII de valeure inférieur à 32, et supprime ou encode les autres caractères spéciaux.
 
 https://www.php.net/manual/fr/filter.filters.sanitize.php
 */
@@ -19,5 +19,5 @@ foreach ($valeurs as $valeur) {
     echo("</br>");
 }
 
-// Ne pas oublier d'inspecter la source pour voir la vrai différence
+// Ne pas oublier d'inspecter la source pour voir la vraie différence
 ?>

@@ -1,7 +1,7 @@
 <?php 
 
 /*
-FILTER_VALIDATE_FLOAT "float" - default, decimal, min_range, max_range	Valide un nombre décimal, optionellement dans l'intervalle fourni, et le converti en nombre décimal en cas de succès.
+FILTER_VALIDATE_FLOAT "float" - default, decimal, min_range, max_range	valide un nombre décimal, optionnellement dans l'intervalle fourni, et le converti en nombre décimal en cas de succès.
 
 https://www.php.net/manual/fr/filter.filters.validate.php
 */

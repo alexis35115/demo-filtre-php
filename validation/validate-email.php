@@ -4,7 +4,7 @@
 FILTER_VALIDATE_EMAIL
 Valide une adresse de courriel.
 
-En général, ceci valide l'adresse de courriel selon la syntaxe défini par la RFC 822, à l'exception des commentaires, du remplissage par des espaces et les noms de domaine sans point qui ne sont pas pris en charge.
+En général, ceci valide l'adresse de courriel selon la syntaxe définie par le RFC 822, à l'exception des commentaires, du remplissage par des espaces et les noms de domaine sans point qui ne sont pas pris en charge.
 
 https://www.php.net/manual/fr/filter.filters.validate.php
 */
